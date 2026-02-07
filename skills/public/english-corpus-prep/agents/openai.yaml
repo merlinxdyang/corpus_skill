@@ -1,0 +1,4 @@
+interface:
+  display_name: "English Corpus Prep"
+  short_description: "Detect input formats and produce clean corpus TXT files."
+  default_prompt: "Prepare corpus-ready TXT data from mixed English files by detecting file formats and cleaning extracted text."

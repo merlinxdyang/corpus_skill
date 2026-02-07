@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# Python caches
+__pycache__/
+*.py[cod]
+
+# Optional local envs
+.venv/
+venv/
+
+# Temporary output folders
+tmp/

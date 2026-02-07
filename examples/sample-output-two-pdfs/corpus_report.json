@@ -1,0 +1,31 @@
+{
+  "input_files_total": 2,
+  "processed_files": 2,
+  "skipped_files": 0,
+  "errors_logged": 0,
+  "total_input_size_bytes": 3740039,
+  "total_input_size_human": "3.57 MB",
+  "converted_to_utf8_files": 0,
+  "format_distribution": {
+    "pdf": 2
+  },
+  "cleaned_corpus": {
+    "path": "/Users/merlinyang/Documents/New project/github_upload_test_2026-02-07_v6/cleaned_corpus/corpus.txt",
+    "token_count": 33813,
+    "type_count": 4587,
+    "char_count": 201148
+  },
+  "pos_annotated_corpus": {
+    "path": "/Users/merlinyang/Documents/New project/github_upload_test_2026-02-07_v6/pos_annotated_corpus/corpus_pos_template.txt",
+    "token_count": 68254,
+    "type_count": 4605,
+    "char_count": 313138
+  },
+  "logs": {
+    "error_log": "/Users/merlinyang/Documents/New project/github_upload_test_2026-02-07_v6/logs/errors.jsonl"
+  },
+  "metadata": {
+    "metadata_manifest": "/Users/merlinyang/Documents/New project/github_upload_test_2026-02-07_v6/metadata/metadata_manifest.jsonl",
+    "metadata_files_dir": "/Users/merlinyang/Documents/New project/github_upload_test_2026-02-07_v6/metadata/per_file"
+  }
+}
